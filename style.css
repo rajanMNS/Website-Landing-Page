@@ -1,0 +1,13 @@
+@media only screen and (max-width: 600px) {
+    .wrapper1{
+    margin-left: 8rem;
+    }
+    .wrapper2{
+        margin-left: -3rem;
+        height: 30px;
+    }
+    .wrapper3{
+        margin-right: -2rem;
+    margin-top: 3rem;
+    }
+  }
